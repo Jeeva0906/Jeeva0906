@@ -69,3 +69,5 @@ Description: Fake news detection using NLP involves using natural language proce
 5. Model Evaluation: Evaluate the model's performance on a separate test set using metrics like accuracy, precision, recall, and F1-score. Cross-validation techniques can also be employed.
 
 6. Deployment: Once the model is trained and evaluated, it can be deployed in a real-time system or application for automatic fake news detection. New news articles can be input to the model, and it can predict whether the article is fake or real.
+We are implement our AI program by this data set:
+https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
